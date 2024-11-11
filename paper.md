@@ -61,6 +61,7 @@ authors:
   - name: Stian Soiland-Reyes (SSR)
     affiliation: 8
   - name: Giorgia Staffoni (GS)
+    orcid: 0009-0003-5916-1757
     affiliation: 12
   - name: Catherine Wei (CW)
     affiliation: 4
